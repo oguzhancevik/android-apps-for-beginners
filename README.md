@@ -10,3 +10,6 @@
 
 ## Sound App :musical_keyboard:
 [Go to Sound App](SoundApp)
+
+## Quiz App :question:
+[Go to Quizzler App](Quizzler)
