@@ -1,5 +1,5 @@
 
-# Android Apps For Beginners
+# Android Apps For Beginners :bulb:
 
 
 ## Dice App :game_die:
@@ -13,3 +13,6 @@
 
 ## Quiz App :question:
 [Go to Quizzler App](Quizzler)
+
+## Weather App :cloud: :sunny:
+[Go to Weather App](WeatherApp)
