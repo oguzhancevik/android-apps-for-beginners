@@ -16,3 +16,6 @@
 
 ## Weather App :cloud: :sunny:
 [Go to Weather App](WeatherApp)
+
+## Bitcoin App :moneybag: :dollar:
+[Go to Bitcoin App](Bitcoin)
